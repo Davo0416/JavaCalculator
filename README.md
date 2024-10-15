@@ -3,5 +3,6 @@ A simple calculator app made with Java and Apache Netbeans. Has the basic operat
 Accounts for divide by 0 and other arithmetic exceptions.
 #
 ![image](https://github.com/user-attachments/assets/860514bf-0bca-4e15-9782-2a78f509eddb)
-![image](https://github.com/user-attachments/assets/6702ba57-fb83-43e1-9372-bf0b20815c4c)
+![image](https://github.com/user-attachments/assets/0c8aff86-fd4d-4a1e-934a-da0a148e010e)
+
 
